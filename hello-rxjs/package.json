@@ -1,0 +1,16 @@
+{
+  "name": "hello-rxjs",
+  "version": "1.0.0",
+  "description": "Hello World RxJS",
+  "scripts": {},
+  "dependencies": {
+    "rxjs": "^5.3.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "typings": "^2.1.0",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
