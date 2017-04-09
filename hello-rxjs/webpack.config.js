@@ -13,13 +13,13 @@ module.exports = {
     loaders: [
       {
         test: /.ts$/,
-        load: 'ts-loader'
+        loader: 'ts-loader'
       }
     ]
   },
 
   // specify file extensions webpack should process
   resolve: {
-
+    extensions: ['', '.ts', '.js']
   }
 }
